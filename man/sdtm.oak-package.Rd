@@ -2,7 +2,7 @@
 % Please edit documentation in R/sdtm.oak-package.R
 \docType{package}
 \name{sdtm.oak-package}
-\alias{sdtm.oak}
+\alias`{sdtm.oak}`
 \alias{sdtm.oak-package}
 \title{sdtm.oak: SDTM Data Transformation Engine}
 \description{
